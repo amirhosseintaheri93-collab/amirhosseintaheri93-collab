@@ -20,7 +20,7 @@ An interactive research platform that turns prepared SUMO conflict outputs into 
 
 A public research demonstrator for configuring a network and policy-facing traffic assumptions through a guided interface, running SUMO in the background, and returning accessible simulation evidence. The development repository remains private while the related research is in progress.
 
-[Open the demonstrator](https://ezsumo.streamlit.app/)
+[Open the demonstrator](https://ezsumo.streamlit.app/) · [View the public showcase](https://github.com/amirhosseintaheri93-collab/ezsumo-showcase)
 
 ### STATS19 Calibration Map S1
 
