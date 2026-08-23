@@ -14,6 +14,8 @@ An interactive research platform that turns prepared SUMO conflict outputs into 
 
 [Open the application](https://mobility-safety-intelligence.streamlit.app/) · [View the repository](https://github.com/amirhosseintaheri93-collab/mobility-safety-intelligence)
 
+**Feature spotlights:** [Street Lens](features/street-lens.md) · [Hotspots & 3D network views](features/hotspots-3d.md) · [LightGBM + SHAP](features/explainable-ml.md) · [Mobility Mix Lab](features/mobility-mix-lab.md)
+
 ### EZSUMO
 
 A public research demonstrator for configuring a network and policy-facing traffic assumptions through a guided interface, running SUMO in the background, and returning accessible simulation evidence. The development repository remains private while the related research is in progress.
