@@ -1,5 +1,7 @@
 # Hotspots and 3D Network Views
 
+![Hotspot and whole-network 3D views](hotspots-3d.gif)
+
 Mobility Safety Intelligence converts prepared conflict-point outputs into ranked spatial concentrations and interactive 3D landscapes.
 
 ## What it demonstrates

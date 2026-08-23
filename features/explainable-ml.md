@@ -1,5 +1,7 @@
 # LightGBM and SHAP
 
+![LightGBM and SHAP results exploration](explainable-ml.gif)
+
 The application serves precomputed LightGBM results so visitors can explore model outputs immediately without retraining models on every interaction.
 
 ## Model structure

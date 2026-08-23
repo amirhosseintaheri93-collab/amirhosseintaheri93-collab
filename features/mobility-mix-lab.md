@@ -1,5 +1,7 @@
 # Mobility Mix Lab
 
+![Mobility Mix Lab interaction](mobility-mix-lab.gif)
+
 The **Mobility Mix Lab** is a non-technical entry point into the same prepared SUMO evidence used by the research dashboard.
 
 Visitors choose a fleet composition and following behaviour, then reveal a concise simulated conflict result. The interface explains whether the result is headway-specific or pooled and compares it descriptively with the published literature benchmark without treating the two evidence sources as equivalent.

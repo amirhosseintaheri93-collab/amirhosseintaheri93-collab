@@ -1,5 +1,7 @@
 # Street Lens
 
+![Street Lens interactive rotation](street-lens.gif)
+
 The **Street Lens** places simulated conflict evidence back into its street context. Instead of reading safety results only as tables or abstract coordinates, users can explore where conflict concentrations occur relative to roads, buildings, traffic signals, crossings, public transport, water, and green areas.
 
 ## What it demonstrates
